@@ -12,6 +12,7 @@
 #include <string>
 #include "mbed.h"
 #include "seekers/mbed/rs485serial.hpp"
+#include "seekers/mbed/sn74xx595.hpp"
 
 #include "vars.h"
 
